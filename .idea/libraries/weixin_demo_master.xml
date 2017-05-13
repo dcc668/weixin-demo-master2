@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="weixin-demo-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/weixin-demo-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/weixin-demo-master/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
